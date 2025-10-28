@@ -7,4 +7,4 @@
 
 ## 🚀 Senior Software Engineer
 
-##### 🛠 Java | Spring | Docker | Kubernetes
+##### 🛠 Tech Lead | Backend | Java | Spring Boot | Microservices | AWS | GCP | Azure | Kubernetes | RabbitMQ | Kafka | RabbitMQ | DevOps
